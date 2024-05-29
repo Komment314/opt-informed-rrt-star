@@ -4,16 +4,16 @@ Repository of thesis "Path Planning for High-DOF manipulator" and algorithm "Opt
 # Structure of repository
 
 ### 1. diploma 
-$\\$ Text of diploma in pdf format in russian language
+Text of diploma in pdf format in russian language
 
 ### 2. basics 
-$\\$ Base classes and functions for running algorithms and benchmarking
+Base classes and functions for running algorithms and benchmarking
 
 ### 3. algos 
-$\\$ Algorithms for single run and viewing
+Algorithms for single run and viewing
 
 ### 4. benchmarking 
-$\\$ Benchmarking set-up, its saved results and visualisation
+Benchmarking set-up, its saved results and visualisation
 
 # Installation
 
